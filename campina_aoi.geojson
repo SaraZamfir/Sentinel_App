@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campina_RO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [27.03405, 44.119036],
+            [27.03405, 44.172494],
+            [27.094919, 44.172494],
+            [27.094919, 44.119036],
+            [27.03405, 44.119036]
+          ]
+        ]
+      }
+    }
+  ]
+}
